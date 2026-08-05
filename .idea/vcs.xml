@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/new_fixed_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pygame_elazar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql_git_petshelter_projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql_git_petshelter_projects/shekel_pet_shelter" vcs="Git" />
+  </component>
+</project>
